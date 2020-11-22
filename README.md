@@ -1,4 +1,4 @@
-![Banner](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Sushil%20Sharma.png)
+![Banner](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Sushil%20Sharma.png "Sushil Sharma")
 
 <pre align="center">
  ██░ ██  ██▓   ▄▄▄█████▓ ██░ ██ ▓█████  ██▀███  ▓█████ 
@@ -17,7 +17,8 @@
 ## Lost in Himalayas 🏞
 
 ![Visitor Count](https://profile-counter.glitch.me/thesushilsharma/count.svg)
-<br>I am a Programmer, I control Your Life 
+<br>
+>I am a Programmer, I control Your Life 
 
 ### Skills and Technologies 👨‍💻
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
