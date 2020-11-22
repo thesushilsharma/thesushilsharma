@@ -1,10 +1,9 @@
 ![Lost in Himalayas 🏞](https://github.com/thesushilsharma/thesushilsharma/blob/main/Sushil%20Sharma.png)
 
-### Hi there 👋, this is Sushil Sharma
+### Hi there 👋, this is [Sushil Sharma!](https://thesushilsharma.github.io)
 #### Lost in Himalayas 🏞
 
-
-![Profile views](https://gpvc.arturio.dev/thesushilsharma) 
+![Visitor Count](https://profile-counter.glitch.me/thesushilsharma/count.svg)
 <br>I am a Programmer, I control Your Life 
 
 ### Skills and Technologies 👨‍💻
@@ -20,6 +19,10 @@
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=080135)
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/thesushilsharma/github-readme-stats)*
+
+**thesushilsharma/thesushilsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### About Me 🤵
 
