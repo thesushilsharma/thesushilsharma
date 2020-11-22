@@ -12,7 +12,6 @@
  ░  ░  ░ ░               ░  ░  ░   ░  ░   ░        ░  ░
                                                        
 </pre>
-
 # 👋, this is [Sushil Sharma!](https://thesushilsharma.github.io)
 ## Lost in Himalayas 🏞
 
@@ -34,7 +33,7 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=080135)
 
-**thesushilsharma/thesushilsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thesushilsharma/thesushilsharma** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Glad To see you here!😍
 
@@ -43,19 +42,19 @@
 - 👯 I’m looking to collaborate on **open-source projects**  
 - 🤔 I’m looking for help with **Blockchain**  
 - 💬 Ask me about **Web Development / WordPress Development**  
-- 📫 How to reach me: **any Social Media**
+- 📫 How to reach me: **Social Media**
 - 😄 Pronouns: **Sushi Shawarma** 
 - ⚡ Fun fact: **High on Chai** 
 
 ### My GitHub Statistics 📈
 ![Sushil's gitHub stats](https://github-readme-stats.vercel.app/api?username=thesushilsharma&show_icons=true&include_all_commits=true&theme=algolia)  
 
-
 ### Languages you can find across my GitHub 🐙
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=thesushilsharma&layout=compact&theme=tokyonight) 
+***NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github***
 
 ### Connect With Me 📱
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thesushilsharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thesushilsharma/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sushilmusing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sushilmusing/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sushilmusing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/thesushilsharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://repl.it/@thesushilsharma/)  
 
-
+### Profile
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=thesushilsharma.github.io&theme=midnight-purple)](https://thesushilsharma.github.io)
