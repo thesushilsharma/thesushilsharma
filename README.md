@@ -58,3 +58,6 @@
 
 ### Profile 👤
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=thesushilsharma.github.io&theme=midnight-purple)](https://thesushilsharma.github.io)
+
+### Projects
+[![Voting System](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Voting_System&theme=dark)](https://github.com/thesushilsharma/Voting_System)
