@@ -56,5 +56,5 @@
 ### Connect With Me 📱
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thesushilsharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thesushilsharma/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sushilmusing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sushilmusing/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sushilmusing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/thesushilsharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://repl.it/@thesushilsharma/)  
 
-### Profile
+### Profile 👤
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=thesushilsharma.github.io&theme=midnight-purple)](https://thesushilsharma.github.io)
