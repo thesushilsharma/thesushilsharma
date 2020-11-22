@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=React&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/HTML5/CSS3-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=777BB4)
-![](https://img.shields.io/badge/Shell_Scripting-informational?style=flat-square&logo=shell&logoColor=white&color=FFD500)
+![](https://img.shields.io/badge/Shell_Scripting-informational?style=flat-square&logo=shell&logoColor=white&color=ED1C24)
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
