@@ -37,13 +37,13 @@
 
 ### Glad To see you here!😍
 
-- 🔭 I’m currently working on **Cyber Security, Web development** 
-- 🌱 I’m currently learning **Blockchain** 
+- 🔭 I’m currently working on **Classified** 
+- 🌱 I’m currently learning **Blockchain, Cyber Security** 
 - 👯 I’m looking to collaborate on **open-source projects**  
-- 🤔 I’m looking for help with **Blockchain**  
+- 🤔 I’m looking for help with ***[Voting_System](https://github.com/thesushilsharma/Voting_System)***
 - 💬 Ask me about **Web Development / WordPress Development**  
 - 📫 How to reach me: **Social Media**
-- 😄 Pronouns: **Sushi Shawarma** 
+- 😄 Pronouns: **Psyche** 
 - ⚡ Fun fact: **High on Chai** 
 
 ### My GitHub Statistics 📈
