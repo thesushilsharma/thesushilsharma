@@ -51,23 +51,9 @@
 
 
 ### Languages you can find across my GitHub 🐙
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=00599C&message=C%2B%2B%EF%B8%B13.1%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=E31B5F&message=CSS%EF%B8%B132.30%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=F0DB4F&message=JavaScript%EF%B8%B111.10%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=E34F26&message=HTML%EF%B8%B135.30%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=007396&message=Java%EF%B8%B15.4%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=777BB4&message=PHP%EF%B8%B115.1%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=ED1C24&message=Shell%EF%B8%B15.2%25)
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=thesushilsharma&layout=compact&theme=tokyonight) 
 
 ### Connect With Me 📱
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thesushilsharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thesushilsharma/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sushilmusing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sushilmusing/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sushilmusing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/thesushilsharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://repl.it/@thesushilsharma/)  
-
-
-<a href="https://github.com/thesushilsharma/github-readme-stats">
-  <!-- Change the `github-readme-stats.thesushilsharma1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-
 
 ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=thesushilsharma.github.io&theme=midnight-purple) 
