@@ -40,13 +40,13 @@
 
 
 ### Languages you can find across my GitHub 🐙
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=00599C&message=C%2B%2B%EF%B8%B12.1%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=E31B5F&message=CSS%EF%B8%B11.30%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=F0DB4F&message=JavaScript%EF%B8%B11.10%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=E34F26&message=HTML%EF%B8%B11.30%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=007396&message=Java%EF%B8%B10.4%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=777BB4&message=PHP%EF%B8%B10.1%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=ED1C24&message=Shell%EF%B8%B10.2%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=00599C&message=C%2B%2B%EF%B8%B13.1%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=E31B5F&message=CSS%EF%B8%B132.30%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=F0DB4F&message=JavaScript%EF%B8%B111.10%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=E34F26&message=HTML%EF%B8%B135.30%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=007396&message=Java%EF%B8%B15.4%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=777BB4&message=PHP%EF%B8%B115.1%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=ED1C24&message=Shell%EF%B8%B15.2%25)
 
 
 ### Contact 📱
