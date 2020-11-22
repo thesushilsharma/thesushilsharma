@@ -1,6 +1,8 @@
+![Lost in Himalayas 🏞](https://github.com/thesushilsharma/thesushilsharma/blob/main/Sushil%20Sharma.png)
+
 ### Hi there 👋, this is Sushil Sharma
 #### Lost in Himalayas 🏞
-![Lost in Himalayas 🏞](https://github.com/thesushilsharma/thesushilsharma/blob/main/Sushil%20Sharma.png)
+
 
 ![Profile views](https://gpvc.arturio.dev/thesushilsharma) 
 <br>I am a Programmer, I control Your Life 
@@ -19,7 +21,7 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=080135)
 
-### About Me 💁🏻
+### About Me 🤵
 
 - 🔭 I’m currently working on **Cyber Security, Web development** 
 - 🌱 I’m currently learning **Blockchain** 
@@ -34,7 +36,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesushilsharma&show_icons=true)  
 
 
-### Languages you can find across my GitHub 👾
+### Languages you can find across my GitHub 🐙
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.1%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B11.9%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.6%25)
