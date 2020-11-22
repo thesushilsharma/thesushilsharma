@@ -3,7 +3,7 @@
 ![Lost in Himalayas 🏞](https://github.com/thesushilsharma/thesushilsharma/blob/main/Sushil%20Sharma.png)
 
 ![Profile views](https://gpvc.arturio.dev/thesushilsharma) 
-Programmer
+<br>I am a Programmer, I control Your Life 
 
 ### Skills and Technologies 👨‍💻
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
