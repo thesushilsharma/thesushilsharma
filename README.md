@@ -1,5 +1,4 @@
-![Lost in Himalayas 🏞](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Sushil%20Sharma.png)
-<img src="https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Sushil%20Sharma.png" alt="Banner">
+![Banner](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Sushil%20Sharma.png)
 
 <pre align="center">
  ██░ ██  ██▓   ▄▄▄█████▓ ██░ ██ ▓█████  ██▀███  ▓█████ 
