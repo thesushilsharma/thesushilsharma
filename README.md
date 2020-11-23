@@ -15,7 +15,8 @@
 # 👋, this is [Sushil Sharma!](https://thesushilsharma.github.io)
 ## Lost in Himalayas 🏞
 
-![Visitor Count](https://profile-counter.glitch.me/thesushilsharma/count.svg)
+![Public Views](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&style=plastic)
+<!---![Visitor Count](https://profile-counter.glitch.me/thesushilsharma/count.svg)--->
 <br>
 >I am a Programmer, I control Your Life 
 
@@ -33,7 +34,9 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=080135)
 
+
 **thesushilsharma/thesushilsharma** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### Glad To see you here!😍
 
