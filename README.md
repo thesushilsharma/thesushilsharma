@@ -20,18 +20,18 @@
 >>I am a Programmer, I control Your Life 
 ```
 ### Skills and Technologies 👨‍💻
-![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F0DB4F)
-![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=React&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/HTML5/CSS3-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=777BB4)
-![](https://img.shields.io/badge/Shell_Scripting-informational?style=flat-square&logo=shell&logoColor=white&color=ED1C24)
-![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=080135)
+![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=F0DB4F)
+![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=React&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/HTML5/CSS3-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/Shell_Scripting-informational?style=for-the-badge&logo=shell&logoColor=white&color=ED1C24)
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=080135)
 
 
 **thesushilsharma/thesushilsharma** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
