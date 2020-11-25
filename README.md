@@ -39,9 +39,9 @@
 
 ### Glad To see you here!😍
 
-- 🔭 I’m currently working on **Portfolio-website** 
+- 🔭 I’m currently working on **[Portfolio-website](https://thesushilsharma.github.io)** 
 - 🌱 I’m currently learning **Blockchain, Cyber Security** 
-- 👯 I’m looking to collaborate on **open-source projects**  
+- 👯 I’m looking to collaborate on **Open-Source Projects**  
 - 🤔 I’m looking for help with ***[Voting_System](https://github.com/thesushilsharma/Voting_System)***
 - 💬 Ask me about **Web Development / WordPress Development**  
 - 📫 How to reach me: **Social Media**
