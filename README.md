@@ -33,10 +33,6 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=080135)
 
-
-**thesushilsharma/thesushilsharma** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ### Glad To see you here!😍
 
 - 🔭 I’m currently working on **[Portfolio-website](https://thesushilsharma.github.io)** 
