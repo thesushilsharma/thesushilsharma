@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=080135)
+![](https://img.shields.io/badge/Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
 
 ### Glad To see you here!😍
 
