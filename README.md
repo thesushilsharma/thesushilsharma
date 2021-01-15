@@ -56,7 +56,7 @@
 [<img src='https://unpkg.com/simple-icons@latest/icons/github.svg' alt='github' height='40'>](https://github.com/thesushilsharma)  [<img src='https://unpkg.com/simple-icons@latest/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thesushilsharma/)  [<img src='https://unpkg.com/simple-icons@latest/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sushilmusing)  [<img src='https://unpkg.com/simple-icons@latest/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sushilmusing/)  [<img src='https://unpkg.com/simple-icons@latest/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sushilmusing)  [<img src='https://unpkg.com/simple-icons@latest/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/thesushilsharma)  [<img src='https://unpkg.com/simple-icons@latest/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://repl.it/@thesushilsharma/)
 
 ### Github Readme Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesushilsharma&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesushilsharma&theme=vision-friendly-dark)
 
 ### Profile 👤
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=thesushilsharma.github.io&theme=midnight-purple)](https://thesushilsharma.github.io)
