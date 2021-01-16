@@ -65,6 +65,7 @@
 [![UserName Searching Tool](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=ThirdEye&theme=algolia)](https://github.com/thesushilsharma/ThirdEye)
 
 ### On Going Projects
-[![Voting System](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Voting_System&theme=dark)](https://github.com/thesushilsharma/Voting_System)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Web-Development&theme=chartreuse-dark)](https://thesushilsharma.github.io/Web-Development/)
+[![Voting System](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Voting_System&theme=dark)](https://github.com/thesushilsharma/Voting_System)
+
 
