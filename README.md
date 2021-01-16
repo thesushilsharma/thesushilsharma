@@ -40,7 +40,7 @@
 - 🌱 I’m currently learning **Blockchain, Cyber Security** 
 - 👯 I’m looking to collaborate on **Open-Source Projects**  
 - 🤔 I’m looking for help with ***[Voting_System](https://github.com/thesushilsharma/Voting_System)***, **[Web-development](https://thesushilsharma.github.io/Web-Development)** 
-- 💬 Ask me about **Web Development / WordPress Development**  
+- 💬 Ask me about **Web / WordPress Development**  
 - 📫 How to reach me: **Social Media**
 - 😄 Pronouns: **Psyche** 
 - ⚡ Fun fact: **High on Chai** 
