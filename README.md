@@ -70,5 +70,6 @@
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Web-Development&theme=chartreuse-dark)](https://thesushilsharma.github.io/Web-Development/)
 [![Voting System](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Voting_System&theme=dark)](https://github.com/thesushilsharma/Voting_System)
 
-<a href="https://www.buymeacoffee.com/thesushilsharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shodow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/thesushilsharma" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shodow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thesushilsharma)
