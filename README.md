@@ -53,10 +53,11 @@
 <br>***NOTE: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github***
 
 ### Want to be my friend? 📱
-[<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thesushilsharma/)  [<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/RawSushilSharma)  [<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thesushilsharma_/)  [<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RawSushilSharma)  [<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14581711/thesushilsharma)  [<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://repl.it/@thesushilsharma/)
-[<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/dev-rainbow.svg' alt='Dev.to' height='40'>](https://dev.to/thesushilsharma/)
-[<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/telegram.svg' alt='Telegram' height='40'>](https://t.me/thesushilsharma/)
-[<img src='https://github.com/thesushilsharma/thesushilsharma/blob/main/icons/Medium.svg' alt='Medium monogram' height='40'>](https://medium.com/@thesushilsharma)
+[<img src='https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' style='margin-bottom: 5px;' />](https://www.linkedin.com/in/thesushilsharma/)  
+[<img src='https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' style='margin-bottom: 5px;' />](https://twitter.com/RawSushilSharma)  
+[<img src='https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white' alt='devto' style='margin-bottom: 5px;' />](https://dev.to/thesushilsharma)  
+[<img src='https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white' alt='medium' style='margin-bottom: 5px;' />](https://medium.com/@thesushilsharma)
+
 
 ### Github Readme Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesushilsharma&theme=vision-friendly-dark)
