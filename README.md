@@ -20,22 +20,22 @@
 >>I'm a programmer, I control your life, but I don't have one of my own. 
 ```
 ### Skills and Technologies 👨‍💻
-![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=007396)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=F0DB4F)
-![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=React&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/HTML5/CSS3-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
-![](https://img.shields.io/badge/Shell_Scripting-informational?style=for-the-badge&logo=shell&logoColor=white&color=ED1C24)
-![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=080135)
-![](https://img.shields.io/badge/Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
-![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/XAMPP-informational?style=flat-square&logo=XAMPP&logoColor=white&color=FB7A24)
-![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/C-informational?style=plastic&logo=C&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Java-informational?style=plastic&logo=Java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=F0DB4F)
+![](https://img.shields.io/badge/ReactJS-informational?style=plastic&logo=React&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/HTML5/CSS3-informational?style=plastic&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/PHP-informational?style=plastic&logo=php&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/Shell_Scripting-informational?style=plastic&logo=shell&logoColor=white&color=ED1C24)
+![](https://img.shields.io/badge/Docker-informational?style=plastic&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=080135)
+![](https://img.shields.io/badge/Wordpress-informational?style=plastic&logo=wordpress&logoColor=white&color=21759B)
+![](https://img.shields.io/badge/Linux-informational?style=plastic&logo=Linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/XAMPP-informational?style=plastic&logo=XAMPP&logoColor=white&color=FB7A24)
+![](https://img.shields.io/badge/VS%20Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
 
 ### Glad To see you here!😍
 
