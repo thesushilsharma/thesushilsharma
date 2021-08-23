@@ -17,7 +17,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=thesushilsharma&label=PROFILE+VIEWS&style=plastic)
 <!---![Profile Views](https://profile-counter.glitch.me/thesushilsharma/count.svg)--->
 ```console
->>I am a Programmer, I control Your Life 
+>>I'm a programmer, I control your life, but I don't have one of my own. 
 ```
 ### Skills and Technologies 👨‍💻
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
