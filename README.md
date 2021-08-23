@@ -55,7 +55,7 @@
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=thesushilsharma&layout=compact&theme=tokyonight) 
 <br>***NOTE: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github***
 
-### Want to be my friend? 📱
+### Want to be my friend? Reach Me On 📱
 [<img src='https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white' alt='linkedin' style='margin-bottom: 5px;' />](https://www.linkedin.com/in/thesushilsharma)
 [<img src='https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat-square&logo=twitter&logoColor=white' alt='twitter' style='margin-bottom: 5px;' />](https://twitter.com/OmgSushilSharma)
 [<img src='https://img.shields.io/badge/dev.to-%2308090A.svg?&style=flat-square&logo=dev.to&logoColor=white' alt='devto' style='margin-bottom: 5px;' />](https://dev.to/thesushilsharma)
