@@ -53,10 +53,10 @@
 <br>***NOTE: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github***
 
 ### Want to be my friend? 📱
-[<img src='https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' style='margin-bottom: 5px;' />](https://www.linkedin.com/in/thesushilsharma/)  
-[<img src='https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' style='margin-bottom: 5px;' />](https://twitter.com/RawSushilSharma)  
-[<img src='https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white' alt='devto' style='margin-bottom: 5px;' />](https://dev.to/thesushilsharma)  
-[<img src='https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white' alt='medium' style='margin-bottom: 5px;' />](https://medium.com/@thesushilsharma)
+[<img src='https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' style='margin-bottom: 5px;' />](https://www.linkedin.com/in/thesushilsharma?target=_blank)
+[<img src='https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' style='margin-bottom: 5px;' />](https://twitter.com/OmgSushilSharma?target=_blank)
+[<img src='https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white' alt='devto' style='margin-bottom: 5px;' />](https://dev.to/thesushilsharma?target=_blank)
+[<img src='https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white' alt='medium' style='margin-bottom: 5px;' />](https://medium.com/@thesushilsharma?target=_blank)
 
 
 ### Github Readme Streak Stats
