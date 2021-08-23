@@ -30,9 +30,12 @@
 ![](https://img.shields.io/badge/Shell_Scripting-informational?style=for-the-badge&logo=shell&logoColor=white&color=ED1C24)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=080135)
 ![](https://img.shields.io/badge/Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
+![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/XAMPP-informational?style=flat-square&logo=XAMPP&logoColor=white&color=FB7A24)
+![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
 
 ### Glad To see you here!😍
 
