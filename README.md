@@ -1,4 +1,4 @@
-![Banner](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Sushil%20Sharma.png "Sushil Sharma")
+![Banner](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Banner_Sushil_Sharma.png "Sushil Sharma")
 ```console
  ███▄    █  ▄▄▄       ███▄ ▄███▓ ▄▄▄        ██████ ▄▄▄█████▓▓█████ 
  ██ ▀█   █ ▒████▄    ▓██▒▀█▀ ██▒▒████▄    ▒██    ▒ ▓  ██▒ ▓▒▓█   ▀ 
