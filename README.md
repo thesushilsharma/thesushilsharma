@@ -40,12 +40,11 @@
 ### Glad To see you here!😍
 
 - 🔭 I’m currently working on **[Portfolio-website](https://thesushilsharma.github.io)**
-- 🌱 I’m currently learning **Blockchain, Cyber Security** 
+- 🌱 I focus on **Blockchain and Website developement** 
 - 👯 I’m looking to collaborate on **Open-Source Projects**  
 - 🤔 I’m looking for help with ***[Voting_System](https://github.com/thesushilsharma/Voting_System)***, **[Web-development](https://thesushilsharma.github.io/Web-Development)** 
-- 💬 Ask me about **Web / WordPress Development**  
-- 📫 How to reach me: **Social Media**
-- 😄 Pronouns: **Psyche** 
+- 💬 Please feel free to contact me with any development-related inquiries. **I'M A DEVELOPER PROGRAMMER.**
+- 📫 How to reach me ** on any Social Media**
 - ⚡ Fun fact: **High on Chai** 
 
 ### My GitHub Statistics 📈
