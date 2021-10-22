@@ -1,4 +1,5 @@
 ![Banner](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Banner_Sushil_Sharma.png "Sushil Sharma")
+<!---
 ```console
  ███▄    █  ▄▄▄       ███▄ ▄███▓ ▄▄▄        ██████ ▄▄▄█████▓▓█████ 
  ██ ▀█   █ ▒████▄    ▓██▒▀█▀ ██▒▒████▄    ▒██    ▒ ▓  ██▒ ▓▒▓█   ▀ 
@@ -11,8 +12,12 @@
          ░       ░  ░       ░         ░  ░      ░              ░  ░
                                                                                                        
 ```
+--->
 # 🙏, this is [Sushil Sharma!](https://thesushilsharma.github.io)
-## Lost in Himalayas 🏞
+## Lost in the Himalayas. 🏞
+
+<h3 align="center">I am Freelancer & Bachelors student @ UOW 👨‍💻</h3>
+<h4 align="center"> Developer | Programmer | Diplomatic | Subjective | Pragmatic | Open Source Contributor | Blockchain </h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thesushilsharma&label=PROFILE+VIEWS&style=plastic)
 <!---![Profile Views](https://profile-counter.glitch.me/thesushilsharma/count.svg)--->
