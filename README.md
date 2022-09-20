@@ -49,7 +49,7 @@
 - 🔭 I’m currently working on **[Portfolio-website](https://thesushilsharma.github.io)**
 - 🌱 I focus on **Blockchain and Website developement** 
 - 👯 In my limited free time, I mainly contribute to **Open-Source Projects**
-- 🤔 I’m looking for help with **[Voting_System](https://github.com/thesushilsharma/Voting_System)**, **[Web-development](https://thesushilsharma.github.io/Web-Development)**, **[Terminal-Website](https://github.com/thesushilsharma/Terminal-Website)** 
+- 🤔 I’m looking for help with **[Voting_System](https://github.com/thesushilsharma/Voting_System)**, **[Terminal-Prompt](https://github.com/thesushilsharma/Terminal-Prompt)**, **[Terminal-Website](https://github.com/thesushilsharma/Terminal-Website)** 
 - 💬 Please feel free to contact me with any development-related inquiries. **I'M A DEVELOPER PROGRAMMER.**
 - 📫 You can also catch up with me on **on any Social Media**
 - ⚡ Fun fact: **High on Chai** 
