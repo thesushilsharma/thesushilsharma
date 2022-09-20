@@ -47,7 +47,7 @@
 ### Glad To see you here!😍
 
 - 🔭 I’m currently working on **[Portfolio-website](https://thesushilsharma.github.io)**
-- 🌱 I focus on **Blockchain and Website developement** 
+- 🌱 I focus on **Website developement** 
 - 👯 In my limited free time, I mainly contribute to **Open-Source Projects**
 - 🤔 I’m looking for help with **[Voting_System](https://github.com/thesushilsharma/Voting_System)**, **[Terminal-Prompt](https://github.com/thesushilsharma/Terminal-Prompt)**, **[Terminal-Website](https://github.com/thesushilsharma/Terminal-Website)** 
 - 💬 Please feel free to contact me with any development-related inquiries. **I'M A DEVELOPER PROGRAMMER.**
