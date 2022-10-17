@@ -27,14 +27,16 @@
 ### Skills and Technologies 👨‍💻
 ![](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C-informational?style=plastic&logo=C&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/Java-informational?style=plastic&logo=Java&logoColor=white&color=007396)
-![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=F0DB4F)
-![](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=npm&logoColor=white&color=339933)
-![](https://img.shields.io/badge/ReactJS-informational?style=plastic&logo=React&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Java-informational?style=plastic&logo=java&logoColor=white&color=ED8B00)
 ![](https://img.shields.io/badge/HTML5/CSS3-informational?style=plastic&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/PHP-informational?style=plastic&logo=php&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=F0DB4F)
+![](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=node.js&logoColor=white&color=43853D)
+![](https://img.shields.io/badge/ReactJS-informational?style=plastic&logo=React&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Shell_Scripting-informational?style=plastic&logo=shell&logoColor=white&color=ED1C24)
+![](https://img.shields.io/badge/Jupyter_Notebook-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Docker-informational?style=plastic&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Podman-informational?style=plastic&logo=Podman&logoColor=white&color=892CA0)
 ![](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=6d28d9)
@@ -43,6 +45,7 @@
 ![](https://img.shields.io/badge/Linux-informational?style=plastic&logo=Linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/XAMPP-informational?style=plastic&logo=XAMPP&logoColor=white&color=FB7A24)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/Postman-informational?style=plastic&logo=Postman&logoColor=white&color=FF6C37)
 
 ### Glad To see you here!😍
 
@@ -65,8 +68,9 @@
 [<img src='https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white' alt='linkedin' style='margin-bottom: 5px;' />](https://www.linkedin.com/in/thesushilsharma)
 [<img src='https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat-square&logo=twitter&logoColor=white' alt='twitter' style='margin-bottom: 5px;' />](https://twitter.com/BeingPsyche)
 [<img src='https://img.shields.io/badge/dev.to-%2308090A.svg?&style=flat-square&logo=dev.to&logoColor=white' alt='devto' style='margin-bottom: 5px;' />](https://dev.to/thesushilsharma)
-[<img src='https://img.shields.io/badge/medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white' alt='medium' style='margin-bottom: 5px;' />](https://medium.com/@thesushilsharma)
+[<img src='https://img.shields.io/badge/medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white' alt='medium' style='margin-bottom: 5px;' />](https://thesushilsharma.medium.com)
 [<img src='https://img.shields.io/badge/polywork-543DE0.svg?&style=flat-square&logo=polywork&logoColor=white' alt='polywork' style='margin-bottom: 5px;' />](https://polywork.com/thesushilsharma)
+[<img src='https://img.shields.io/badge/hashnode-2962FF.svg?&style=flat-square&logo=hashnode&logoColor=white' alt='hashnode' style='margin-bottom: 5px;' />](https://thesushilsharma.hashnode.dev)
 
 
 ### Github Readme Streak Stats
