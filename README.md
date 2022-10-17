@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=node.js&logoColor=white&color=43853D)
 ![](https://img.shields.io/badge/ReactJS-informational?style=plastic&logo=React&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Shell_Scripting-informational?style=plastic&logo=shell&logoColor=white&color=ED1C24)
-![](https://img.shields.io/badge/Jupyter_Notebook-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/Anaconda-informational?style=plastic&logo=anaconda&logoColor=white&color=44A833)
 ![](https://img.shields.io/badge/Docker-informational?style=plastic&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Podman-informational?style=plastic&logo=Podman&logoColor=white&color=892CA0)
 ![](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=4479A1)
@@ -46,6 +46,7 @@
 ![](https://img.shields.io/badge/XAMPP-informational?style=plastic&logo=XAMPP&logoColor=white&color=FB7A24)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
 ![](https://img.shields.io/badge/Postman-informational?style=plastic&logo=Postman&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/Jupyter_Notebook-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626)
 
 ### Glad To see you here!😍
 
