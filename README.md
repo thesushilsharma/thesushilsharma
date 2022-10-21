@@ -63,7 +63,7 @@
 
 ### Languages you can find across my GitHub 🐙
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=thesushilsharma&layout=compact&theme=tokyonight) 
-<br>***NOTE: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github***
+<br>***NOTE: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github***
 
 ### Want to be my friend? Reach me on 📱
 [<img src='https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white' alt='linkedin' style='margin-bottom: 5px;' />](https://www.linkedin.com/in/thesushilsharma)
