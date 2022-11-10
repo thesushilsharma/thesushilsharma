@@ -45,6 +45,7 @@
 ![](https://img.shields.io/badge/Linux-informational?style=plastic&logo=Linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/XAMPP-informational?style=plastic&logo=XAMPP&logoColor=white&color=FB7A24)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/Git-informational?style=plastic&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Postman-informational?style=plastic&logo=Postman&logoColor=white&color=FF6C37)
 ![](https://img.shields.io/badge/Jupyter_Notebook-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626)
 
