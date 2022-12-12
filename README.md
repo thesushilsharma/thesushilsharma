@@ -48,6 +48,7 @@
 ![](https://img.shields.io/badge/Git-informational?style=plastic&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Postman-informational?style=plastic&logo=Postman&logoColor=white&color=FF6C37)
 ![](https://img.shields.io/badge/Jupyter_Notebook-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/ExpressJs-informational?style=plastic&logo=ExpressJs&logoColor=white&color=ffeb3b)
 
 ### Glad To see you here!😍
 
