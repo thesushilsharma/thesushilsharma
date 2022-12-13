@@ -90,7 +90,7 @@
 | | |
 | :----: | :----: |
 |[![Voting System](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Voting_System&theme=dark)](https://github.com/thesushilsharma/Voting_System)|[![Portfolio - Professional Website Development](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Portfolio&theme=github_dark)](https://github.com/thesushilsharma/Portfolio)|
-|[![Voting System](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Terminal-Website&theme=vue-dark)](https://github.com/thesushilsharma/Terminal-Website)|[![Portfolio - Professional Website Development](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Terminal-Prompt&theme=omni)](https://github.com/thesushilsharma/Terminal-Prompt)|
+|[![Terminal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Terminal-Website&theme=vue-dark)](https://github.com/thesushilsharma/Terminal-Website)|[![Virtual Learning Environment](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=Virtual-Learning-Environment&theme=omni)](https://github.com/thesushilsharma/Virtual-Learning-Environment)|
 
 ### And if you like my work, support me with a coffee 😉.
 
