@@ -24,31 +24,21 @@
 ```console
 >>I'm a programmer, I control your life, but I don't have one of my own. 
 ```
-### Skills and Technologies 👨‍💻
-![](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/C-informational?style=plastic&logo=C&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/Java-informational?style=plastic&logo=java&logoColor=white&color=ED8B00)
-![](https://img.shields.io/badge/HTML5/CSS3-informational?style=plastic&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/PHP-informational?style=plastic&logo=php&logoColor=white&color=777BB4)
-![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=F0DB4F)
-![](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=node.js&logoColor=white&color=43853D)
-![](https://img.shields.io/badge/ReactJS-informational?style=plastic&logo=React&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Shell_Scripting-informational?style=plastic&logo=shell&logoColor=white&color=ED1C24)
-![](https://img.shields.io/badge/Anaconda-informational?style=plastic&logo=anaconda&logoColor=white&color=44A833)
-![](https://img.shields.io/badge/Docker-informational?style=plastic&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Podman-informational?style=plastic&logo=Podman&logoColor=white&color=892CA0)
-![](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=6d28d9)
-![](https://img.shields.io/badge/Tailwind-informational?style=plastic&logo=tailwindcss&logoColor=white&color=06b6d4)
-![](https://img.shields.io/badge/Wordpress-informational?style=plastic&logo=wordpress&logoColor=white&color=21759B)
-![](https://img.shields.io/badge/Linux-informational?style=plastic&logo=Linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/XAMPP-informational?style=plastic&logo=XAMPP&logoColor=white&color=FB7A24)
-![](https://img.shields.io/badge/VS%20Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=0078d7)
-![](https://img.shields.io/badge/Git-informational?style=plastic&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Postman-informational?style=plastic&logo=Postman&logoColor=white&color=FF6C37)
-![](https://img.shields.io/badge/Jupyter_Notebook-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626)
-![](https://img.shields.io/badge/ExpressJs-informational?style=plastic&logo=ExpressJs&logoColor=white&color=ffeb3b)
+### My Tech Stack 👨‍💻
+**A comprehensive list of tech I've learnt to use and mastered!**
+| CATEGORY | TECH |
+| --- | ----------- |
+| ***Programming Languages*** | ![](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=00599C) ![](https://img.shields.io/badge/C-informational?style=plastic&logo=C&logoColor=white&color=A8B9CC) ![](https://img.shields.io/badge/Java-informational?style=plastic&logo=java&logoColor=white&color=ED8B00) ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=3776AB) ![](https://img.shields.io/badge/Shell_Scripting-informational?style=plastic&logo=shell&logoColor=white&color=ED1C24) ![](https://img.shields.io/badge/GNU_Bash-informational?style=plastic&logo=GNU-Bash&logoColor=white&color=4EAA25)|
+| ***Web Developemnt*** | ![](https://img.shields.io/badge/HTML5-informational?style=plastic&logo=html5&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=css3&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/PHP-informational?style=plastic&logo=php&logoColor=white&color=777BB4) ![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=F0DB4F) ![](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=node.js&logoColor=white&color=43853D) ![](https://img.shields.io/badge/ReactJS-informational?style=plastic&logo=React&logoColor=white&color=61DAFB) ![](https://img.shields.io/badge/Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=6d28d9) ![](https://img.shields.io/badge/Tailwind-informational?style=plastic&logo=tailwindcss&logoColor=white&color=06b6d4) ![](https://img.shields.io/badge/Wordpress-informational?style=plastic&logo=wordpress&logoColor=white&color=21759B) ![](https://img.shields.io/badge/ExpressJS-informational?style=plastic&logo=ExpressJS&logoColor=white&color=ffeb3b)|
+| ***Databases*** | ![](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=4479A1) ![](https://img.shields.io/badge/MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=47A248) |
+| ***CI/CD*** | ![](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=GitHub&logoColor=white&color=181717) ![](https://img.shields.io/badge/Docker-informational?style=plastic&logo=docker&logoColor=white&color=2496ED) ![](https://img.shields.io/badge/Podman-informational?style=plastic&logo=Podman&logoColor=white&color=892CA0) ![](https://img.shields.io/badge/XAMPP-informational?style=plastic&logo=XAMPP&logoColor=white&color=FB7A24) ![](https://img.shields.io/badge/VS%20Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=0078d7) ![](https://img.shields.io/badge/Git-informational?style=plastic&logo=Git&logoColor=white&color=F05032) ![](https://img.shields.io/badge/Postman-informational?style=plastic&logo=Postman&logoColor=white&color=FF6C37) |
+| ***Payment*** | ![](https://img.shields.io/badge/Stripe-informational?style=plastic&logo=Stripe&logoColor=white&color=008CDD) ![](https://img.shields.io/badge/PayPal-informational?style=plastic&logo=PayPal&logoColor=white&color=00457C) |
+| ***Data Visualization*** | ![](https://img.shields.io/badge/Grafana-informational?style=plastic&logo=Grafana&logoColor=white&color=F46800) ![](https://img.shields.io/badge/Prometheus-informational?style=plastic&logo=Prometheus&logoColor=white&color=E6522C) |
+| ***Cloud*** | ![](https://img.shields.io/badge/Cloudflare-informational?style=plastic&logo=Cloudflare&logoColor=white&color=F38020) ![](https://img.shields.io/badge/Render-informational?style=plastic&logo=Render&logoColor=white&color=46E3B7) ![](https://img.shields.io/badge/Microsoft_Azure-informational?style=plastic&logo=Microsoft-Azure&logoColor=white&color=0078D4) ![](https://img.shields.io/badge/Netlify-informational?style=plastic&logo=Netlify&logoColor=white&color=00C7B7) ![](https://img.shields.io/badge/Vercel-informational?style=plastic&logo=Vercel&logoColor=white&color=000000) ![](https://img.shields.io/badge/Heroku-informational?style=plastic&logo=Heroku&logoColor=white&color=430098) |
+| ***Machine Learning*** | ![](https://img.shields.io/badge/Jupyter_Notebook-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626) ![](https://img.shields.io/badge/Anaconda-informational?style=plastic&logo=anaconda&logoColor=white&color=44A833) ![](https://img.shields.io/badge/Google_Colab-informational?style=plastic&logo=Google-Colab&logoColor=white&color=F9AB00) |
+| ***OS*** | ![](https://img.shields.io/badge/Windows-informational?style=plastic&logo=Windows&logoColor=white&color=0078D6) ![](https://img.shields.io/badge/Linux-informational?style=plastic&logo=Linux&logoColor=white&color=FCC624) |
+| ***Design*** | ![](https://img.shields.io/badge/Figma-informational?style=plastic&logo=Figma&logoColor=white&color=F24E1E) |
+| ***Hosting*** | ![](https://img.shields.io/badge/GoDaddy-informational?style=plastic&logo=GoDaddy&logoColor=white&color=1BDBDB) ![](https://img.shields.io/badge/Hostinger-informational?style=plastic&logo=Hostinger&logoColor=white&color=674CC4)|
 
 ### Glad To see you here!😍
 
