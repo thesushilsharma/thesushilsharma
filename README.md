@@ -25,7 +25,7 @@
 >>I'm a programmer, I control your life, but I don't have one of my own. 
 ```
 ### My Tech Stack 👨‍💻
-**A comprehensive list of tech I've learnt to use and mastered!**
+**Unreal software developer who tasted the syntax of each code.!**
 | CATEGORY | TECH |
 | --- | ----------- |
 | ***Programming Languages*** | ![](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=00599C) ![](https://img.shields.io/badge/C-informational?style=plastic&logo=C&logoColor=white&color=A8B9CC) ![](https://img.shields.io/badge/Java-informational?style=plastic&logo=OpenJDK&logoColor=white&color=ED8B00) ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=3776AB) ![](https://img.shields.io/badge/Shell_Scripting-informational?style=plastic&logo=shell&logoColor=white&color=ED1C24) ![](https://img.shields.io/badge/GNU_Bash-informational?style=plastic&logo=GNU-Bash&logoColor=white&color=4EAA25) ![](https://img.shields.io/badge/Rust-informational?style=plastic&logo=Rust&logoColor=white&color=000000)|
