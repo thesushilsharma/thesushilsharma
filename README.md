@@ -17,7 +17,7 @@
 ## Lost in the Himalayas. 🏞
 
 <h3 align="center">I am Freelancer & Bachelors student @ UOW 👨‍💻</h3>
-<h4 align="center"> Developer | Programmer | Open Source Contributor | Blockchain | Strategist | Innovator | Researcher  </h4>
+<h4 align="center"> Developer | Programmer | Open Source Contributor | AI Automation | Strategist | Innovator | Researcher  </h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thesushilsharma&label=PROFILE+VIEWS&style=plastic)
 <!---![Profile Views](https://profile-counter.glitch.me/thesushilsharma/count.svg)--->
@@ -25,7 +25,7 @@
 >>I'm a programmer, I control your life, but I don't have one of my own. 
 ```
 ### My Tech Stack 👨‍💻
-**Unreal software developer who tasted the syntax of each code.!**
+**Unreal software developer who tasted the syntax of each code.! I tailor the languages to suit my audience and high performance at a low cost.**
 | CATEGORY | TECH |
 | --- | ----------- |
 | ***Programming Languages*** | ![](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=00599C) ![](https://img.shields.io/badge/C-informational?style=plastic&logo=C&logoColor=white&color=A8B9CC) ![](https://img.shields.io/badge/Java-informational?style=plastic&logo=OpenJDK&logoColor=white&color=ED8B00) ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=3776AB) ![](https://img.shields.io/badge/Shell_Scripting-informational?style=plastic&logo=shell&logoColor=white&color=ED1C24) ![](https://img.shields.io/badge/GNU_Bash-informational?style=plastic&logo=GNU-Bash&logoColor=white&color=4EAA25) ![](https://img.shields.io/badge/Rust-informational?style=plastic&logo=Rust&logoColor=white&color=000000)|
@@ -43,15 +43,15 @@
 ### Glad To see you here!😍
 
 - 🔭 I’m currently working on **[Portfolio-website](https://thesushilsharma.github.io)**
-- 🌱 I focus on **Website developement** 
+- 🌱 I focus on **Progressive Web Applications (PWAs) and Serverless** 
 - 👯 In my limited free time, I mainly contribute to **Open-Source Projects**
 - 🤔 I’m looking for help with **[Voting_System](https://github.com/thesushilsharma/Voting_System)**, **[Terminal-Prompt](https://github.com/thesushilsharma/Terminal-Prompt)**, **[Terminal-Website](https://github.com/thesushilsharma/Terminal-Website)** 
 - 💬 Please feel free to contact me with any development-related inquiries. **I'M A DEVELOPER PROGRAMMER.**
-- 📫 You can also catch up with me on **on any Social Media**
+- 📫 You can also catch up with me on **any Social Media**
 - ⚡ Fun fact: **High on Chai** 
 
 ### My GitHub Statistics 📈
-![Sushil's gitHub stats](https://github-readme-stats.vercel.app/api?username=thesushilsharma&show_icons=true&include_all_commits=true&theme=algolia)  
+![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesushilsharma&show_icons=true&include_all_commits=true&theme=algolia)  
 
 ### Languages you can find across my GitHub 🐙
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=thesushilsharma&layout=compact&theme=tokyonight) 
