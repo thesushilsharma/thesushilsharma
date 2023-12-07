@@ -48,16 +48,16 @@
 - 🤔 I’m looking for help with **[Voting_System](https://github.com/thesushilsharma/Voting_System)**, **[Terminal-Prompt](https://github.com/thesushilsharma/Terminal-Prompt)**, **[Terminal-Website](https://github.com/thesushilsharma/Terminal-Website)** 
 - 💬 Please feel free to contact me with any development-related inquiries. **I'M A DEVELOPER PROGRAMMER.**
 - 📫 You can also catch up with me on **any Social Media**
-- ⚡ Fun fact: **High on Chai** 
+- ⚡ Fun fact: **I'm a huge movie buff and love sampling new foods and sweets. Oh, and I can never go a day without my cup of Chai!** 
 
 ### My GitHub Statistics 📈
 ![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesushilsharma&show_icons=true&include_all_commits=true&theme=algolia)  
 
 ### Languages you can find across my GitHub 🐙
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=thesushilsharma&layout=compact&theme=tokyonight) 
-<br>***NOTE: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github***
+<br>***NOTE: Most Used languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub***
 
-### Want to be my friend? Reach me on 📱
+### Want to be my friend? Reach me at 📱
 [<img src='https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white' alt='linkedin' style='margin-bottom: 5px;' />](https://www.linkedin.com/in/thesushilsharma)
 [<img src='https://img.shields.io/badge/twitter-%23000000.svg?&style=flat-square&logo=X&logoColor=white' alt='twitter' style='margin-bottom: 5px;' />](https://twitter.com/BeingPsyche)
 [<img src='https://img.shields.io/badge/dev.to-%2308090A.svg?&style=flat-square&logo=dev.to&logoColor=white' alt='devto' style='margin-bottom: 5px;' />](https://dev.to/thesushilsharma)
