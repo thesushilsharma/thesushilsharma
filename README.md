@@ -1,4 +1,8 @@
-![Banner](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Banner_Sushil_Sharma.png "Sushil Sharma")
+<!---![Banner](https://github.com/thesushilsharma/thesushilsharma/blob/main/Banner/Banner_Sushil_Sharma.png "Sushil Sharma") --->
+# 🙏, this is [Sushil Sharma!](https://thesushilsharma.github.io)
+## Lost in the Himalayas. 🏞
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=DE0D92&center=true&vCenter=true&random=false&width=650&lines=Full+stack+web+developer+who+Turns+%E2%98%95+to+%3C%2F%3E;I+speak+fluent+web+-+lets's+build+something+amazing)](https://git.io/typing-svg)
 <!---
 ```console
  ███▄    █  ▄▄▄       ███▄ ▄███▓ ▄▄▄        ██████ ▄▄▄█████▓▓█████ 
@@ -13,9 +17,6 @@
                                                                                                        
 ```
 --->
-# 🙏, this is [Sushil Sharma!](https://thesushilsharma.github.io)
-## Lost in the Himalayas. 🏞
-
 <h3 align="center">I am Freelancer & Bachelors student @ UOW 👨‍💻</h3>
 <h4 align="center"> Developer | Programmer | Open Source Contributor | AI Automation | Strategist | Innovator | Researcher  </h4>
 
