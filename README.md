@@ -46,7 +46,7 @@
 - 🔭 I’m currently working on **[Portfolio-website](https://thesushilsharma.github.io)**
 - 🌱 I focus on **Progressive Web Applications (PWAs) and Serverless** 
 - 👯 In my limited free time, I mainly contribute to **Open-Source Projects**
-- 🤔 I’m looking for help with **[Voting_System](https://github.com/thesushilsharma/Voting_System)**, **[Terminal-Prompt](https://github.com/thesushilsharma/Terminal-Prompt)**, **[Terminal-Website](https://github.com/thesushilsharma/Terminal-Website)** 
+- 🤔 I’m looking for help with **[DexWeaver](https://github.com/thesushilsharma/DexWeaver)**, **[Interlock](https://github.com/thesushilsharma/Interlock)**, **[Loop](https://github.com/thesushilsharma/Loop)** 
 - 💬 Please feel free to contact me with any development-related inquiries. **I'M A DEVELOPER PROGRAMMER.**
 - 📫 You can also catch up with me on **any Social Media**
 - ⚡ Fun fact: **I'm a huge movie buff and love sampling new foods and sweets. Oh, and I can never go a day without my cup of Chai!** 
