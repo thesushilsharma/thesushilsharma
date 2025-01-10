@@ -68,7 +68,7 @@
 
 
 ### Github Readme Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesushilsharma&theme=vision-friendly-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thesushilsharma&theme=neon)](https://git.io/streak-stats)
 
 ### Profile 👤
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=thesushilsharma.github.io&theme=midnight-purple)](https://thesushilsharma.github.io)
