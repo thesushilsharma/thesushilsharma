@@ -18,7 +18,7 @@
 ```
 --->
 <h3 align="center">I am Freelancer & Bachelors student @ UOW 👨‍💻</h3>
-<h4 align="center"> Developer | Programmer | Open Source Contributor | AI Automation | Strategist | Innovator | Researcher  </h4>
+<h4 align="center"> Software Engineer | Developer | Programmer | Open Source Contributor | AI Automation | Strategist | Innovator | Researcher  </h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thesushilsharma&label=PROFILE+VIEWS&style=plastic)
 <!---![Profile Views](https://profile-counter.glitch.me/thesushilsharma/count.svg)--->
