@@ -70,7 +70,7 @@
 
 
 ### Github Readme Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats-ten-blue.vercel.app?user=thesushilsharma&theme=neon)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-blue.vercel.app?user=thesushilsharma&theme=violet-punch)](https://git.io/streak-stats)
 
 ### Profile 👤
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thesushilsharma&repo=thesushilsharma.github.io&theme=midnight-purple)](https://thesushilsharma.github.io)
