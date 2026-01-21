@@ -54,7 +54,7 @@
 - ⚡ Fun fact: **I'm a huge movie buff and love sampling new foods and sweets. Oh, and I can never go a day without my cup of Chai!** 
 
 ### My GitHub Statistics 📈
-![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesushilsharma&show_icons=true&include_all_commits=true&theme=algolia)  
+![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesushilsharma&show_icons=true&include_all_commits=true&theme=github_dark)  
 
 ### Languages you can find across my GitHub 🐙
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=thesushilsharma&layout=compact&theme=tokyonight) 
