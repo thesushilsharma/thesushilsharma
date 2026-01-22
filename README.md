@@ -65,7 +65,6 @@
 [<img src='https://img.shields.io/badge/twitter-%23000000.svg?&style=flat-square&logo=X&logoColor=white' alt='twitter' style='margin-bottom: 5px;' />](https://twitter.com/BeingPsyche)
 [<img src='https://img.shields.io/badge/dev.to-%2308090A.svg?&style=flat-square&logo=dev.to&logoColor=white' alt='devto' style='margin-bottom: 5px;' />](https://dev.to/thesushilsharma)
 [<img src='https://img.shields.io/badge/medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white' alt='medium' style='margin-bottom: 5px;' />](https://thesushilsharma.medium.com)
-[<img src='https://img.shields.io/badge/polywork-543DE0.svg?&style=flat-square&logo=polywork&logoColor=white' alt='polywork' style='margin-bottom: 5px;' />](https://polywork.com/thesushilsharma)
 [<img src='https://img.shields.io/badge/hashnode-2962FF.svg?&style=flat-square&logo=hashnode&logoColor=white' alt='hashnode' style='margin-bottom: 5px;' />](https://thesushilsharma.hashnode.dev)
 
 
